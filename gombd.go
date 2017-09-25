@@ -1,4 +1,4 @@
-package "gombd"
+package gombd
 
 import "fmt"
 
