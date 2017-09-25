@@ -3,5 +3,5 @@ package gombd
 import "fmt"
 
 func Hi() {
-    fmt.Println("hi 1")
+    fmt.Println("hi 2")
 }
